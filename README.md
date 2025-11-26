@@ -64,10 +64,59 @@ I am a results-driven **Computer Engineer** specializing in **FPGA design, VHDL,
 ## 📊 GitHub Stats
 
 <div align="center">
-<!-- 🚨 IMPORTANT: Replace 'your-github-username' with your actual GitHub username in the URLs below for the stats to load! -->
-   <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmad193&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmad193&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmad193&theme=radical&hide_border=true) -->
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Ahmad193&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Ahmad193&theme=react-dark&hide_border=true&area=true)
+
 </div>
+
+---
+
+## 🎯 Interactive Showcase
+
+<details>
+<summary>🚀 Featured Projects (Click to Expand)</summary>
+
+### 🔧 Hardware Projects
+- **FPGA-based Image Processing Pipeline** - Real-time image processing using Vivado HLS
+- **Custom RISC-V Processor** - 5-stage pipelined processor in VHDL
+- **IoT Smart Home System** - ESP32-based home automation with cloud integration
+
+### 💻 Software Projects
+- **Robotics Path Planning** - ROS-based autonomous navigation system
+- **Computer Vision Suite** - OpenCV-based object detection and tracking
+- **Web Portfolio** - Modern responsive portfolio with interactive elements
+
+</details>
+
+<details>
+<summary>🏆 Achievements & Certifications (Click to Expand)</summary>
+
+- 🥇 **Best Research Paper Award** - ICET 2024
+- 📜 **Certified FPGA Designer** - Xilinx
+- 🎓 **Dean's Honor List** - Multiple Semesters
+- 🏅 **Robotics Competition Winner** - National Level
+- 📚 **Published Researcher** - 3+ IEEE/IET Publications
+
+</details>
+
+<details>
+<summary>📈 Skills Proficiency (Click to Expand)</summary>
+
+```text
+FPGA Design (VHDL/Verilog)  ████████████████████░   95%
+Embedded Systems (C/C++)    ███████████████████░░   90%
+Python & Machine Learning   ██████████████████░░░   85%
+Web Development (MERN)      ████████████████░░░░░   80%
+ROS & Robotics              ███████████████████░░   90%
+Computer Vision (OpenCV)    ██████████████████░░░   85%
+DevOps (Docker/K8s)         ███████████████░░░░░░   75%
+```
+
+</details>
 
 ---
 
@@ -92,4 +141,10 @@ I am a results-driven **Computer Engineer** specializing in **FPGA design, VHDL,
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=M-Ahmad193&label=Profile%20Views&color=0e75b6&style=flat" alt="M-Ahmad193" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" width="100%"/>
 </div>
