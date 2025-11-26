@@ -65,8 +65,8 @@ I am a results-driven **Computer Engineer** specializing in **FPGA design, VHDL,
 
 <div align="center">
 <!-- 🚨 IMPORTANT: Replace 'your-github-username' with your actual GitHub username in the URLs below for the stats to load! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmad193&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmad193&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ---
