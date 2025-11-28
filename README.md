@@ -11,6 +11,8 @@
 <br/>
 
 <div align="center">
+  <a href="https://m-ahmad193.github.io/M-Ahmad193/">
+    <img src="https://img.shields.io/badge/ Live%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
   <a href="mailto:mahmad.connect@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -69,7 +71,7 @@ I am a results-driven **Computer Engineer** specializing in **FPGA design, VHDL,
   
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Ahmad193&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Ahmad193&theme=react-dark&hide_border=true&area=true)
+ 
 
 </div>
 
