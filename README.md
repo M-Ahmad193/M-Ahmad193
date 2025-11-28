@@ -138,6 +138,54 @@ DevOps (Docker/K8s)         ███████████████░░�
 - **[2024] Mitigating Adversarial and Data Poisoning Attacks** (ICET, IEEE)
 
 ---
+## 📈 Detailed GitHub Statistics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Ahmad193&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmad193&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmad193&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=F85D7F" alt="GitHub Streak Stats" />
+  
+  <!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Ahmad193&theme=radical" alt="Productive Time"/> -->
+
+</div>
+
+<br/>
+
+### 🏆 GitHub Profile Summary
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Ahmad193&theme=radical" alt="Profile Summary" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Ahmad193&theme=radical" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Ahmad193&theme=radical" alt="Most Commit Language"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=M-Ahmad193&label=Profile%20Views&color=0e75b6&style=flat" alt="M-Ahmad193" />
