@@ -30,7 +30,7 @@
 
 I am a results-driven **Computer Engineer** specializing in **FPGA design, VHDL, HLS, and Embedded Hardware**. I bridge the gap between hardware and software to create optimized, real-time solutions for performance-critical applications.
 
-- 🔭 **Currently:** Instructor at [FAST NUCES](https://cfd.nu.edu.pk/) & Research Assistant at [GIKI](https://giki.edu.pk/).
+- 🔭 **Currently:** Lecturer at [FAST NUCES](https://cfd.nu.edu.pk/) & Research Assistant at [GIKI](https://giki.edu.pk/).
 - 🌱 **Learning:** Advanced FPGA Design Space Exploration.
 - � **Interests:** Embedded Systems, IoT, Robotics, and Hardware Optimization.
 - 🎓 **Education:** M.S. Computer Engineering (GIKI) | B.S. Computer Engineering (UET Taxila).
@@ -126,7 +126,7 @@ DevOps (Docker/K8s)         ███████████████░░�
 
 | Role | Organization | Duration |
 | :--- | :--- | :--- |
-| **Instructor** | 🏛️ **FAST NUCES, CFD** | *Aug 2025 – Present* |
+| **Lecturer** | 🏛️ **FAST NUCES, CFD** | *Aug 2025 – Present* |
 | **Research Assistant** | 🔬 **GIKI** | *Oct 2023 – Jun 2025* |
 | **STEM Software Engineer** | 🤖 **Swarm Robotics Lab** | *Jul 2022 – Jun 2023* |
 | **DevOps Engineer** | ✈️ **Pakistan Air Force AHQ** | *Aug 2023 – Dec 2023* |
